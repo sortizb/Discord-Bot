@@ -31,5 +31,5 @@ If you have any questions, suggestions, or feedback, please don't hesitate to re
 
 - **Name:** [Santiago Ortiz Betancourt]
 - **Email:** [ortizbetancourtsantiago@gmail.com]
-- **GitHub:** [Your GitHub Profile](https://github.com/sortizb04)
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/santiago-ortiz-betancourt)
+- **GitHub:** [sortizb](https://github.com/sortizb04)
+- **LinkedIn:** [santiago-ortiz-betancourt](www.linkedin.com/in/santiago-ortiz-betancourt)
